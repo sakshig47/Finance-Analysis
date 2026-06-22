@@ -1,3 +1,6 @@
+<img width="709" height="372" alt="Screenshot 2026-06-22 134241" src="https://github.com/user-attachments/assets/75675b9e-6ac3-4c31-8dc9-6f292fa39976" />
+
+
 Finance Analytics Dashboard - Power BI
 Project Overview
 This project presents an interactive Finance Analytics Dashboard built in Power BI to monitor financial transactions, customer behavior, fees, taxes, transaction success rates, and regional performance.
@@ -52,6 +55,8 @@ Maharashtra is the highest-performing state.
 Female customers contribute slightly more transaction value than males.
 Successful transactions account for over 85% of total transaction amount.
 Dashboard Preview
+
+<img width="709" height="372" alt="Screenshot 2026-06-22 134241" src="https://github.com/user-attachments/assets/ea12f2d5-1c4c-49cc-a13a-b7b38b9ffa1b" />
 
 
 <img width="709" height="376" alt="Screenshot 2026-06-22 134316" src="https://github.com/user-attachments/assets/c381294b-3b2a-4a5e-8c5f-c36f64d59834" />
