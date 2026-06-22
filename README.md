@@ -54,6 +54,7 @@ Successful transactions account for over 85% of total transaction amount.
 Dashboard Preview
 
 
+<img width="709" height="376" alt="Screenshot 2026-06-22 134316" src="https://github.com/user-attachments/assets/c381294b-3b2a-4a5e-8c5f-c36f64d59834" />
 
 
 Files Included
